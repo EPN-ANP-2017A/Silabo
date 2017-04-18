@@ -37,13 +37,14 @@ Para la clase se utilizará la metodología de la [**Clase Invertida** o **Flipp
 
 ### Clase 1 - Introducción
   1. Introducción a la materia y explicación de la metodología de trabajo.
-     1. Aplicación de metodología SCRUM
      1. Todos los deberes, proyectos, pruebas y exámenes serán entregados via Github
-     1. Uso del plugin para Google Chrome ZenHub
+     1. Definición de proyectos a realizar hasta la semana 3.
+     1. Aplicación de metodología SCRUM
+     1. Uso del plugin para Google Chrome ZenHub.
   1. Descargar Virtualbox (https://www.virtualbox.org/wiki/Downloads)
   1. Descargar Ubuntu server (https://www.ubuntu.com/download/server)
   1. Instalar ubuntu server en VB
-  1. Instalación de Putty o **git bash** en Windows para conexión via ssh
+  1. Instalación de git bash en Windows para conexión via ssh (https://git-scm.com/). Otra alternativa es PuTTY (http://www.putty.org/)
   1. Configuración inicial de servidor Ubuntu (https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-16-04)
   1. Configuraciones adicionales recomendadas (https://www.digitalocean.com/community/tutorials/additional-recommended-steps-for-new-ubuntu-14-04-servers)
   1. Instalación de LAMPP en Ubuntu (https://www.digitalocean.com/community/tutorials/como-instalar-linux-apache-mysql-php-lamp-en-ubuntu-16-04-es)
