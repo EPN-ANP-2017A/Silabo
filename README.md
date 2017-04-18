@@ -36,18 +36,18 @@ Para la clase se utilizará la metodología de la [**Clase Invertida** o **Flipp
 **Todo el material utilizado en las clases se encontrará [aquí](https://github.com/EPN-ANP-2016A).**
 
 ### Clase 1 - Introducción
-  1 Introducción a la materia y explicación de la metodología de trabajo.
-    1 Aplicación de SCRUM
-    1 Todos los deberes, proyectos, pruebas y exámenes serán entregados via Github
-  1 Descargar Virtualbox (https://www.virtualbox.org/wiki/Downloads)
-  1 Descargar Ubuntu server (https://www.ubuntu.com/download/server)
-  1 Instalar ubuntu server en VB
-  1 Instalación de Putty o **git bash** en Windows para conexión via ssh
-  1 Configuración inicial de servidor Ubuntu (https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-16-04)
-  1 Configuraciones adicionales recomendadas (https://www.digitalocean.com/community/tutorials/additional-recommended-steps-for-new-ubuntu-14-04-servers)
-  1 Instalación de LAMPP en Ubuntu (https://www.digitalocean.com/community/tutorials/como-instalar-linux-apache-mysql-php-lamp-en-ubuntu-16-04-es)
-  1 Probar instalación correcta
-  1 Introducción a PHP
+  1. Introducción a la materia y explicación de la metodología de trabajo.
+    1. Aplicación de SCRUM
+    1. Todos los deberes, proyectos, pruebas y exámenes serán entregados via Github
+  1. Descargar Virtualbox (https://www.virtualbox.org/wiki/Downloads)
+  1. Descargar Ubuntu server (https://www.ubuntu.com/download/server)
+  1. Instalar ubuntu server en VB
+  1. Instalación de Putty o **git bash** en Windows para conexión via ssh
+  1. Configuración inicial de servidor Ubuntu (https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-16-04)
+  1. Configuraciones adicionales recomendadas (https://www.digitalocean.com/community/tutorials/additional-recommended-steps-for-new-ubuntu-14-04-servers)
+  1. Instalación de LAMPP en Ubuntu (https://www.digitalocean.com/community/tutorials/como-instalar-linux-apache-mysql-php-lamp-en-ubuntu-16-04-es)
+  1. Probar instalación correcta
+  1. Introducción a PHP
 
 
 <!-- ### Clase 2 - Fundamentos de PHP (25/10/2016)
