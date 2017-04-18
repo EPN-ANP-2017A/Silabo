@@ -37,8 +37,8 @@ Para la clase se utilizará la metodología de la [**Clase Invertida** o **Flipp
 
 ### Clase 1 - Introducción
   1. Introducción a la materia y explicación de la metodología de trabajo.
-    1. Aplicación de SCRUM
-    1. Todos los deberes, proyectos, pruebas y exámenes serán entregados via Github
+     1. Aplicación de SCRUM
+     1. Todos los deberes, proyectos, pruebas y exámenes serán entregados via Github
   1. Descargar Virtualbox (https://www.virtualbox.org/wiki/Downloads)
   1. Descargar Ubuntu server (https://www.ubuntu.com/download/server)
   1. Instalar ubuntu server en VB
