@@ -58,7 +58,7 @@ Para la clase se utilizará la metodología de la [**Clase Invertida** o **Flipp
   1. Probar instalación correcta
   1. Introducción a PHP
 
-### Clase 2 - Introducción a PHP (25/04/2017)
+### Clase 3 - Introducción a PHP (02/05/2017)
   1. Instalación de LAMPP en Ubuntu (https://www.digitalocean.com/community/tutorials/como-instalar-linux-apache-mysql-php-lamp-en-ubuntu-16-04-es)
   1. Probar instalación correcta
   1. Introducción a PHP
