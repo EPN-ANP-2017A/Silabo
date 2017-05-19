@@ -64,7 +64,13 @@ Para la clase se utilizará la metodología de la [**Clase Invertida** o **Flipp
   1. Introducción a PHP
   1. Entregar los ejercicios en el repositorio que se crea en este [link](  https://classroom.github.com/assignment-invitations/73c26e1282a3cb4fd6806fc1691a8c7f)
 
-  
+### Clase 4 - Bases de PHP (09/05/2017)
+  Entregar los ejercicios en el repositorio que se crea en este [link](https://classroom.github.com/assignment-invitations/fdc53304ace27565dd553c8a1227e039)
+
+### Clase 5 - Sesiones en PHP (16/05/2017)
+  Entregar los ejercicios en el repositorio que se crea en este [link](https://classroom.github.com/assignment-invitations/3ae6e9ea75b37fbc81eb63840214df97)
+
+
 <!-- ### Clase 2 - Fundamentos de PHP (25/10/2016)
 
   * **Prerequisitos para esta clase** (Estas tareas las deben completar en casa antes de la clase)
