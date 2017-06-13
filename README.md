@@ -71,8 +71,10 @@ Para la clase se utilizará la metodología de la [**Clase Invertida** o **Flipp
   Entregar los ejercicios en el repositorio que se crea en este [link](https://classroom.github.com/assignment-invitations/3ae6e9ea75b37fbc81eb63840214df97)
 
 ### Clase 6 - Prueba PHP (23/05/2017)
-  Crear su repositorio y subir la solución de la prueba [aquí] (https://classroom.github.com/assignment-invitations/f62f0450dd435d1af7b912741e810414)
+  Crear su repositorio y subir la solución de la prueba [aquí](https://classroom.github.com/assignment-invitations/f62f0450dd435d1af7b912741e810414)
 
+### Clase 8 - Ejercicio Comentarios (06/06/2017)
+  Entregar el ejercicio [aquí](https://classroom.github.com/assignment-invitations/05f643706565ac93c44f238cc01be290)
 
 
 <!-- ### Clase 2 - Fundamentos de PHP (25/10/2016)
