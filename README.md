@@ -76,6 +76,9 @@ Para la clase se utilizará la metodología de la [**Clase Invertida** o **Flipp
 ### Clase 8 - Ejercicio Comentarios (06/06/2017)
   Entregar el ejercicio [aquí](https://classroom.github.com/assignment-invitations/05f643706565ac93c44f238cc01be290)
 
+### Clase 9 - Examen (13/06/2017)
+  Entregar el ejercicio [aquí](https://classroom.github.com/assignment-invitations/be846a3114e155f0978204d0f6d9b22b)
+
 
 <!-- ### Clase 2 - Fundamentos de PHP (25/10/2016)
 
