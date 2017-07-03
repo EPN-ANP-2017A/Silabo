@@ -79,6 +79,13 @@ Para la clase se utilizará la metodología de la [**Clase Invertida** o **Flipp
 ### Clase 9 - Examen (13/06/2017)
   Entregar el ejercicio [aquí](https://classroom.github.com/assignment-invitations/be846a3114e155f0978204d0f6d9b22b)
 
+### Clase 10 - Symfony
+ Entregar el ejercicio del Controlador de números aleatorios  [aqui](https://classroom.github.com/assignment-invitations/2685026f8216f12a23c60583c4c9aebb)
+
+### Clase 11 - Symfony Controladores
+ Crear el repositorio para los grupos [aqui](https://classroom.github.com/group-assignment-invitations/f87bb393ca3c583cce3fb13c7a5dbf75)
+
+
 
 <!-- ### Clase 2 - Fundamentos de PHP (25/10/2016)
 
